@@ -60,3 +60,5 @@ DBS.ExamOnline.Admin/fonts/arial-unicode-ms.ttf
 
 # by me
 Web.config
+bin/
+obj/
